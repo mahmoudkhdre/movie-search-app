@@ -2,7 +2,7 @@
 
 ## what i used
 
-api from [themoviedb] (https://www.themoviedb.org/settings/api)
+api from [themoviedb](https://www.themoviedb.org/settings/api)
 you can login or register on it to Generate a API-key to use it to fetch data in app
 your API will be like this
 ```
